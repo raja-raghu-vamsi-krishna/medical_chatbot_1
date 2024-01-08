@@ -69,4 +69,5 @@ open up localhost:
 - Meta Llama2
 - Pinecone
 
+# ![2024-01-08 (3)](https://github.com/raja-raghu-vamsi-krishna/medical_chatbot_1/assets/131585236/5c8253ef-23fc-44d1-8ab2-225f2a9c79d9)
 
